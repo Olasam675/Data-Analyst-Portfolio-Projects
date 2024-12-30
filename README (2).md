@@ -1,7 +1,7 @@
 # Portfolio Projects
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can take a look at my personal website : [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com/aboutme)* <br />
-#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/priyankajhatheanalyst/)* <br />
+#### *You can take a look at my personal website :  <br />
+#### *You can also take a look at my Linkedin : [SamTheAnalyst](https://www.linkedin.com/in/samuel-olorunfemi-85b792205/)* <br />
 
 
 
