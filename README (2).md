@@ -38,7 +38,7 @@
 
 - [x] **Python** - 
   - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/Olasam675/Portfolio-Projects/blob/main/README%20(4).md)**<br />
+*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/Olasam675/Python_MoviesIndustry_EDA/blob/main/README%20(5).md)**<br />
 
 
 
