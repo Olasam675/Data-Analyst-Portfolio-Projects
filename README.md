@@ -8,8 +8,8 @@
 - [x] **SQL & Tableau** - 
   - Instagram Clone Data Analysis Project<br />
 <br />
-*Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
-*Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
+*Review the Data Insertion SQL Script:* **[HERE](https://github.com/Olasam675/Data-Analyst-Portfolio-Projects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
+*Review the Data Exploration SQL Script:* **[HERE](https://github.com/Olasam675/Data-Analyst-Portfolio-Projects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
 
 ![Instagram Clone Dashboard](https://github.com/Olasam675/Data-Analysis-with-Python/blob/main/Instagram%20Clone%20Data%20Analysis%20Dashboard.png)
