@@ -3,17 +3,9 @@
 #### *You can take a look at my personal website :  <br />
 #### *You can also take a look at my Linkedin : [SamTheAnalyst](https://www.linkedin.com/in/samuel-olorunfemi-85b792205/)* <br />
 
-
-
 - [x] **SQL & Tableau** - 
   - Instagram Clone Data Analysis Project<br />
-<br />
-*Review the Data Insertion SQL Script:* **[HERE](https://github.com/Olasam675/Data-Analyst-Portfolio-Projects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
-*Review the Data Exploration SQL Script:* **[HERE](https://github.com/Olasam675/Data-Analyst-Portfolio-Projects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
-- [x] **SQL & Tableau** - 
-  - Instagram Clone Data Analysis Project<br />
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
 *Review the Data Insertion SQL Script:* **[HERE](https://github.com/Olasam675/Data-Analyst-Portfolio-Projects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/Olasam675/Data-Analyst-Portfolio-Projects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
